@@ -1,14 +1,12 @@
 # WeeBot
 
-WeeBot提供最基本的WeChat消息收发功能，帮助你实现简单的自动化操作
+WeeBot提供最基本的消息收发功能，帮助你实现简单的自动化操作
 
 ## 下载和启动
 
 1. 下载程序包 [WeeBot-3.9.10.27-0.6.0.zip](https://www.yuque.com/attachments/yuque/0/2024/zip/250308/1718969080072-81e3b9cc-d712-4005-9a38-f1fbb976616a.zip?_lake_card=%7B%22src%22%3A%22https%3A%2F%2Fwww.yuque.com%2Fattachments%2Fyuque%2F0%2F2024%2Fzip%2F250308%2F1718969080072-81e3b9cc-d712-4005-9a38-f1fbb976616a.zip%22%2C%22name%22%3A%22WeeBot-3.9.10.27-0.6.0.zip%22%2C%22size%22%3A45898878%2C%22ext%22%3A%22zip%22%2C%22source%22%3A%22%22%2C%22status%22%3A%22done%22%2C%22download%22%3Atrue%2C%22taskId%22%3A%22u515ede7c-14f2-4e3a-93b9-55e8708dc30%22%2C%22taskType%22%3A%22upload%22%2C%22type%22%3A%22application%2Fx-zip-compressed%22%2C%22__spacing%22%3A%22both%22%2C%22mode%22%3A%22title%22%2C%22id%22%3A%22u71375e1b%22%2C%22margin%22%3A%7B%22top%22%3Atrue%2C%22bottom%22%3Atrue%7D%2C%22card%22%3A%22file%22%7D)
-2. 登录WeChat客户端，确认当前版本为3.9.10.27（[下载WeChat客户端](https://github.com/tom-snow/wechat-windows-versions/releases/download/v3.9.10.27/WeChatSetup-3.9.10.27.exe)）
+2. 登录客户端，确认当前版本为3.9.10.27（[下载客户端](https://github.com/tom-snow/wechat-windows-versions/releases/download/v3.9.10.27/WeChatSetup-3.9.10.27.exe)）
 3. 解压缩后启动WeeBot程序，点击【Start】启动服务，点击【Stop】取消程序挂接
-
-![a024aae6eec40d8ddebe01cd52916ffc.png](https://cdn.nlark.com/yuque/0/2024/png/250308/1718327308477-cf36e606-0e52-47af-8809-462fb1d0129e.png#averageHue=%23e6e6e6&clientId=u5d00b06c-dad2-4&from=paste&height=331&id=u16e01af9&originHeight=588&originWidth=1224&originalType=binary&ratio=1.75&rotation=0&showTitle=false&size=174721&status=done&style=none&taskId=uab297acf-d025-410d-ba77-4b8bc6e589b&title=&width=690)
 
 ## 接收消息
 
